@@ -222,7 +222,3 @@ bash <(curl -fsSL https://raw.githubusercontent.com/<user>/<repo>/main/install_n
 curl -fsSLO https://raw.githubusercontent.com/<user>/<repo>/main/install_n8n.sh{,.sha256}
 sha256sum -c install_n8n.sh.sha256 && sudo bash install_n8n.sh --no-domain
 ```
-
-
-```
-```
